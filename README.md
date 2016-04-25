@@ -1,8 +1,3 @@
-# java_template
-
-
-
-#### By _**Paul Hess**_
 
 ## Description
 
